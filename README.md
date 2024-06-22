@@ -1,23 +1,28 @@
+# YouTube Assistant
 
+Ask questions about any YouTube video to this LLM powered assistant.
 
-![340406658-af58a18d-932c-4ee7-870b-20820cfa3f3f](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206/ee9bfd83-c947-41cc-80fc-173b4dd12a39)
+## Running it locally
 
+Install the required packages:
 
+```bash
+pip install -r requirements.txt
+```
 
+Run the streamlit app:
 
-# Project Name
-Long Description about project. This project do that. This project is awesome...
-## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
-## Link to product walkthrough
-[link to video](Link Here)
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
-## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+```bash
+streamlit run main.py
+```
+
+![YouTube Assistant App](/YouTube-Assistant.png)
+
+## Hosted On
+
+The web-app uses streamlit and is hosted on [Azure Container Apps.](https://azure.microsoft.com/en-ca/products/container-apps)
+
+## Author
+
+- Twitter: [@rishabkumar7](https://twitter.com/rishabk7)
+- LinkedIn: [rishabkumar7](https://linkedin.com/in/rishabkumar7)
