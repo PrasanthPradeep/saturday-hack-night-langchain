@@ -26,8 +26,8 @@ Ask questions about any YouTube video to this LLM powered assistant.
    
 ## Libraries used
 Python 3<br>
-LangChain
-Streamlit
+LangChain<br>
+Streamlit<br>
 
 ## How to configure
 Instructions for setting up project
