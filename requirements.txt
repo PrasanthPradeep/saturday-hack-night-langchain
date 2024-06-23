@@ -1,6 +1,0 @@
-python-dotenv
-langchain
-openai
-youtube-transcript-api
-faiss-cpu
-streamlit
