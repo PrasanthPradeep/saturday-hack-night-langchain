@@ -7,7 +7,7 @@
 
 # TubeBuddy
 
-Ask questions about any YouTube video to this LLM powered assistant.
+Get stuck with long youtube videos. Now get a quick summary about any YouTube video by our LLM powered assistant - TubeBuddy.
 
 ## Team members
 1. [Nobin Sijo](https://www.linkedin.com/in/nobin-sijo-a22711291)
@@ -15,29 +15,29 @@ Ask questions about any YouTube video to this LLM powered assistant.
 
 ## Link to product walkthrough
 
-![YouTube Assistant App](/YouTube-Assistant.png)
+![image](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206/7b3f3b29-2392-4ea2-b5bd-e6ab12e87255)
+
 
 ## How it Works ?
-1. Inputh the opted youtube video link
-2. Ask your question
-3. Enter the API Key
-4. Submit
-5. Yaa! Your answer is ready.
+1. Paste youtube video link.
+2. Press Enter.
+3. Yaa! Your answer is ready.
    
 ## Libraries used
 Python 3<br>
 LangChain<br>
+HuggingFace<br>
 Streamlit<br>
 
 ## How to configure
 Instructions for setting up project
 
-# Running it locally
+### Running it locally
 
 Install the required packages:
 
 ```bash
-pip install -r requirements.txt
+pip install streamlit youtube-transcript-api transformers langchain
 ```
 
 
@@ -47,7 +47,7 @@ Instructions for running
 Run the streamlit app:
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
 
 
