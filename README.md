@@ -26,7 +26,8 @@ Get stuck with long youtube videos. Now get a quick summary about any YouTube vi
 ## Libraries used
 Python 3<br>
 LangChain<br>
-HuggingFace<br>
+HuggingFace Transformers<br>
+youtube-transcript-api<br>
 Streamlit<br>
 
 ## How to configure
@@ -37,7 +38,7 @@ Instructions for setting up project
 Install the required packages:
 
 ```bash
-pip install streamlit youtube-transcript-api transformers langchain
+pip install streamlit youtube-transcript-api transformers langchain torch
 ```
 
 
