@@ -17,6 +17,14 @@ Get stuck with long youtube videos. Now get a quick summary about any YouTube vi
 
 ![image](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206/7b3f3b29-2392-4ea2-b5bd-e6ab12e87255)
 
+#
+#
+
+
+https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206/e4b7f593-b806-4746-af1f-0975948e4ba8
+
+#
+#
 
 ## How it Works ?
 1. Paste youtube video link.
