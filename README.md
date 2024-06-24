@@ -70,6 +70,7 @@ To use this app, you'll need to get your own [Replicate](https://replicate.com/)
 
 After signing up to Replicate, you can access your API token from [this page](https://replicate.com/account/api-tokens).
 ![image](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206/7b3f3b29-2392-4ea2-b5bd-e6ab12e87255)
+
 ### Authenticate Replicate API
 1. Open Terminal
 2. Locate the directory of Chatbuddy usind "cd" command
