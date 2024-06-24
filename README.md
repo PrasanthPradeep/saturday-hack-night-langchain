@@ -69,6 +69,7 @@ py -m venv venv
 To use this app, you'll need to get your own [Replicate](https://replicate.com/) API token.
 
 After signing up to Replicate, you can access your API token from [this page](https://replicate.com/account/api-tokens).
+
 ![image](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/143606368/30b17fa5-384e-48a2-ac8b-30cfd0500dca)
 
 ### Authenticate Replicate API
