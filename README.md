@@ -27,9 +27,10 @@ https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206
 #
 
 ## How it Works ?
-1. Paste youtube video link.
+1. Paste Replicate API
 2. Press Enter.
-3. Yaa! Your answer is ready.
+3. Enter your prompt
+4. Get amazed by the convosation
    
 ## Libraries used
 Python 3<br>
