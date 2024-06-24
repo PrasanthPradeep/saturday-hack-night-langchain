@@ -65,7 +65,7 @@ Run the streamlit app:
 streamlit run streamlit_app.py
 ```
 
-##[Also find our llm based chatbot app we made here](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/tree/main/llm-master)
+##[Also find our Youtube Summarizer app we made here](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/tree/master)
 
 
 
