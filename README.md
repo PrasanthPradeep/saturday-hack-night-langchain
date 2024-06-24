@@ -50,12 +50,48 @@ Install the required packages:
 ```bash
 pip install -r requirements. txt
 ```
+### Setting Virtual Environment
+For Linux
+```bash
+python3 -m venv venv
+```
+For Windows
+```bash
+py -m venv venv
+```
+### Activate Virtual Environment
+```bash
+ source venv/bin/activate
+```
+
 ### Getting your own Replicate API token
 
 To use this app, you'll need to get your own [Replicate](https://replicate.com/) API token.
 
 After signing up to Replicate, you can access your API token from [this page](https://replicate.com/account/api-tokens).
 
+### Authenticate Replicate API
+1. Open Terminal
+2. Locate the directory of Chatbuddy usind "cd" command
+3. Enter into Nano Editor
+   
+
+  
+   
+
+```bash
+nano .streamlit/secrets.toml
+```
+4. Enter this format
+   
+```bash
+[Your API Key]
+# Example: for database connection
+db_username = "your_github_username"
+db_password = "your_github_password"
+```
+5. Save Nano File by Ctrl+X and Press Y and Enter
+6. Run the "run streamlit_app.py" and get amazed
 
 ## How to Run
 Instructions for running
