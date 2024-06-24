@@ -93,6 +93,11 @@ db_password = "your_github_password"
 5. Save Nano File by Ctrl+X and Press Y and Enter
 6. Run the "run streamlit_app.py" and get amazed
 
+### If any problem persists
+1. Open streamlit_app_v2.py file
+2. On line 5 "os.environ['REPLICATE_API_TOKEN'] = 'Replace with your API Key' "
+
+
 ## How to Run
 Instructions for running
 
