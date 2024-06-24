@@ -1,55 +1,39 @@
+# 🦙💬 Llama 2 Chat
 
+This chatbot is created using the open-source Llama 2 LLM model from Meta.
 
-![LangChain notion](https://github.com/TH-Activities/saturday-hack-night-template/assets/117498997/af58a18d-932c-4ee7-870b-20820cfa3f3f)
+Particularly, we're using the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model deployed by the Andreessen Horowitz (a16z) team and hosted on the [Replicate](https://replicate.com/) platform.
 
+This app was refactored from [a16z's implementation](https://github.com/a16z-infra/llama2-chatbot) of their [LLaMA2 Chatbot](https://www.llama2.ai/) to be light-weight for deployment to the [Streamlit Community Cloud](https://streamlit.io/cloud).
 
+## Demo App
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://llama2.streamlitapp.com/)
 
-# TubeBuddy
+## Prerequisite libraries
 
-Ask questions about any YouTube video to this LLM powered assistant.
-
-## Team members
-1. [Nobin Sijo](https://www.linkedin.com/in/nobin-sijo-a22711291)
-2. [Prasanth P](https://www.linkedin.com/in/prasanth1010000)
-
-## Link to product walkthrough
-
-![YouTube Assistant App](/YouTube-Assistant.png)
-
-## How it Works ?
-1. Inputh the opted youtube video link
-2. Ask your question
-3. Enter the API Key
-4. Submit
-5. Yaa! Your answer is ready.
-   
-## Libraries used
-Python 3<br>
-LangChain<br>
-Streamlit<br>
-
-## How to configure
-Instructions for setting up project
-
-# Running it locally
-
-Install the required packages:
-
-```bash
-pip install -r requirements.txt
+```
+streamlit
+replicate
 ```
 
+## Getting your own Replicate API token
 
-## How to Run
-Instructions for running
+To use this app, you'll need to get your own [Replicate](https://replicate.com/) API token.
 
-Run the streamlit app:
+After signing up to Replicate, you can access your API token from [this page](https://replicate.com/account/api-tokens).
 
-```bash
-streamlit run main.py
-```
+## Other Llama 2 models to try
 
+As mentioned above, this chatbot implementation uses the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model that was trained on 7 billion parameters.
 
+You can also try out the larger models:
+- [Llama2-13B](https://replicate.com/a16z-infra/llama13b-v2-chat)
+- [Llama2-70B](https://replicate.com/replicate/llama70b-v2-chat)
 
-
+## Further Reading
+- [Llama 2 website](https://ai.meta.com/llama/)
+- [Llama 2 technical overview](https://ai.meta.com/resources/models-and-libraries/llama/)
+- [Llama 2 blog](https://ai.meta.com/blog/llama-2/)
+- [Llama 2 research article](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
+- [Llama 2 GitHub repo](https://github.com/facebookresearch/llama/tree/main)
