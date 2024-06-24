@@ -65,6 +65,9 @@ Run the streamlit app:
 ```bash
 streamlit run streamlit_app.py
 ```
+###You can also try out the models:
+- [Llama2-13B](https://replicate.com/a16z-infra/llama13b-v2-chat)
+- [Llama2-70B](https://replicate.com/replicate/llama70b-v2-chat)
 
 ##[Also find our Youtube Summarizer app we made here](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/tree/master)
 
