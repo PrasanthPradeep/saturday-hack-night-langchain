@@ -5,9 +5,9 @@
 
 
 
-# TubeBuddy
+# ChatBuddy 🤖
 
-Get stuck with long youtube videos. Now get a quick summary about any YouTube video by our LLM powered assistant - TubeBuddy.
+Hi there! I'm Chatbuddy , your AI companion powered by the Llama 2 model. Let's chat - I'm ready for fun, informative, and natural conversations on anything you like! 
 
 ## Team members
 1. [Nobin Sijo](https://www.linkedin.com/in/nobin-sijo-a22711291)
