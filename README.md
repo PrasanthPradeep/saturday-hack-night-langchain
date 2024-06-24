@@ -30,7 +30,7 @@ https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206
 1. Paste Replicate API
 2. Press Enter.
 3. Enter your prompt
-4. Get amazed by the convosation
+4. Get amazed by the conversation
    
 ## Libraries used
 Python 3<br>
