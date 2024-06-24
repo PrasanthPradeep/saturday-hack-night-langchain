@@ -5,9 +5,9 @@
 
 
 
-# ChatBuddy 🤖
+# ChatBuddy 🤖💬
 
-Hi there! I'm Chatbuddy , your AI companion powered by the Llama 2 model. Let's chat - I'm ready for fun, informative, and natural conversations on anything you like! 
+Hi there! I'm Chatbuddy , your AI companion powered by the Llama 2 model🦙. Let's chat - I'm ready for fun, informative, and natural conversations on anything you like! 
 
 ## Team members
 1. [Nobin Sijo](https://www.linkedin.com/in/nobin-sijo-a22711291)
@@ -34,9 +34,10 @@ https://github.com/PrasanthPradeep/saturday-hack-night-langchain/assets/78849206
 ## Libraries used
 Python 3<br>
 LangChain<br>
-HuggingFace Transformers<br>
-youtube-transcript-api<br>
+Llama2-13B<br>
+Llama2-7B<br>
 Streamlit<br>
+Replicate API<br>
 
 ## How to configure
 Instructions for setting up project
@@ -46,7 +47,7 @@ Instructions for setting up project
 Install the required packages:
 
 ```bash
-pip install streamlit youtube-transcript-api transformers langchain torch
+pip install -r requirements. txt
 ```
 
 
@@ -56,7 +57,7 @@ Instructions for running
 Run the streamlit app:
 
 ```bash
-streamlit run app.py
+streamlit run streamlit_app.py
 ```
 
 ##[Also find our llm based chatbot app we made here](https://github.com/PrasanthPradeep/saturday-hack-night-langchain/tree/main/llm-master)
